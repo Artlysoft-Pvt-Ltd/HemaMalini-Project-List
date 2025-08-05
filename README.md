@@ -27,7 +27,8 @@
 | 23    | 29-07-2025     | Perfume Website           | [Click Here](https://hema-1712.github.io/aromora/)                   |
 | 24    | 30-07-2025     | Blood Donation Website    | [Click Here](https://hema-1712.github.io/lifepulse/)                 |
 | 25    | 31-07-2025     | Train Food Book Website   | [Click Here](https://hema-1712.github.io/railmeal/)                  |
-| 26    | 01-07-2025     | Jewelry stores            | [Click Here](https://hema-1712.github.io/grtjewels/)                 |
-| 27    | 04-07-2025     | Tire shops                | [Click Here](https://hema-1712.github.io/suzityres/)                 |
+| 26    | 01-08-2025     | Jewelry stores            | [Click Here](https://hema-1712.github.io/grtjewels/)                 |
+| 27    | 04-08-2025     | Tire shops                | [Click Here](https://hema-1712.github.io/suzityres/)                 |
+| 28    | 05-08-2025     | Beauty salons             | [Click Here](https://hema-1712.github.io/glow/)                      |
 
 **Trainer Name**: Dinesh Kumar
