@@ -31,5 +31,7 @@
 | 27    | 04-08-2025     | Tire shops                | [Click Here](https://hema-1712.github.io/suzityres/)                 |
 | 28    | 05-08-2025     | Beauty salons             | [Click Here](https://hema-1712.github.io/glow/)                      |
 | 29    | 06-08-2025     | Puzzle shops              | [Click Here](https://hema-1712.github.io/puzzix/)                    |
+| 30    | 07-08-2025     | Book Stores               | [Click Here](https://hema-1712.github.io/book/)                      |
+
 
 **Trainer Name**: Dinesh Kumar
