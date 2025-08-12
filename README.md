@@ -32,6 +32,8 @@
 | 28    | 05-08-2025     | Beauty salons             | [Click Here](https://hema-1712.github.io/glow/)                      |
 | 29    | 06-08-2025     | Puzzle shops              | [Click Here](https://hema-1712.github.io/puzzix/)                    |
 | 30    | 07-08-2025     | Book Stores               | [Click Here](https://hema-1712.github.io/book/)                      |
+| 31    | 08-08-2025     | Art supply stores         | [Click Here](https://hema-1712.github.io/Doodle/)                    |
+| 32    | 11-08-2025     | Comic Book Shops          | [Click Here](https://hema-1712.github.io/comic/)                     |
 
 
 **Trainer Name**: Dinesh Kumar
