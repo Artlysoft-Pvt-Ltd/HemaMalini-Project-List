@@ -34,6 +34,7 @@
 | 30    | 07-08-2025     | Book Stores               | [Click Here](https://hema-1712.github.io/book/)                      |
 | 31    | 08-08-2025     | Art supply stores         | [Click Here](https://hema-1712.github.io/Doodle/)                    |
 | 32    | 11-08-2025     | Comic Book Shops          | [Click Here](https://hema-1712.github.io/comic/)                     |
+| 33    | 13-08-2025     | Pet supply stores         | [Click Here](https://hema-1712.github.io/truepaw/)                   |
 
 
 **Trainer Name**: Dinesh Kumar
