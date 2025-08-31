@@ -35,6 +35,14 @@
 | 31    | 08-08-2025     | Art supply stores         | [Click Here](https://hema-1712.github.io/Doodle/)                    |
 | 32    | 11-08-2025     | Comic Book Shops          | [Click Here](https://hema-1712.github.io/comic/)                     |
 | 33    | 13-08-2025     | Pet supply stores         | [Click Here](https://hema-1712.github.io/truepaw/)                   |
+| 34    | 14-08-2025     | Motorbike showrooms       | [Click Here](https://hema-1712.github.io/ridex/)                     |
+| 35    | 18-08-2025     | Money Exchange Shops      | [Click Here](https://hema-1712.github.io/forex/)                     |
+| 36    | 19-08-2025     | Tailor Shops              | [Click Here](https://hema-1712.github.io/sew/)                       |
+| 37    | 21-08-2025     | Skin Care Clinics         | [Click Here](https://hema-1712.github.io/glowence/)                  |
+| 38    |	22-08-2025	   |Skateboard&RollerbladeShops| [Click Here](https://hema-1712.github.io/kickpush/)                  |
+| 39	  |26-08-2025      |Language Learning Bookshops| [Click Here](https://hema-1712.github.io/babel/)                     |
+| 40	  |28-08-2025	     |Health Supplement Stores	 | [Click Here](https://hema-1712.github.io/biofit/)                    |
+| 41	  |29-08-2025	     |Ethnic Grocery Stores      | [Click Here](https://hema-1712.github.io/yamibuy/)                   |
 
 
 **Trainer Name**: Dinesh Kumar
