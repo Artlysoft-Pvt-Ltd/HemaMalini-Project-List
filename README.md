@@ -43,6 +43,33 @@
 | 39	  |26-08-2025      |Language Learning Bookshops| [Click Here](https://hema-1712.github.io/babel/)                     |
 | 40	  |28-08-2025	     |Health Supplement Stores	 | [Click Here](https://hema-1712.github.io/biofit/)                    |
 | 41	  |29-08-2025	     |Ethnic Grocery Stores      | [Click Here](https://hema-1712.github.io/yamibuy/)                   |
+| 42	  |01-09-2025	     | Dry cleaners              | [Click Here](https://hema-1712.github.io/freshfold/)                 |
+| 43	  |02-09-2025	     |Print & Copy Centers	     | [Click Here](https://hema-1712.github.io/printxpress/)               |
+| 44	  |03-09-2025	     |Composting Equipment Shops | [Click Here](https://hema-1712.github.io/greenpro/ )                 |
+| 45	  |05-09-2025	     |NFT&DigitalCollectible	   | [Click Here](https://hema-1712.github.io/NFT/)                       |
+| 46	  |08-05-2025	     |Campingandhikinggearstores | [Click Here](https://hema-1712.github.io/hikora/)                    |
+| 47	  |09-12-2025	     |NotaryorLegalDocumentShops | [Click Here](https://hema-1712.github.io/notary/)                    |
+| 48	  |10-09-2025	     |Machinery Parts Shops	     | [Click Here](https://hema-1712.github.io/machotech/)                 |
+| 49	  |11-09-2025	     |Thrift or secondhand shops | [Click Here](https://hema-1712.github.io/thrift/)                    |
+| 50	  |12-09-2025	     |Vinyl & CD Stores	         | [Click Here](https://hema-1712.github.io/vinyl/)                     |
+| 51	  |15-09-2025	     |Tech repair shops	         | [Click Here](https://hema-1712.github.io/bytefix/ )                  |
+| 52	  |16-09-2025	     |Hydroponic Shops	         | [Click Here](https://hema-1712.github.io/hydro/ )                    |
+| 53	  |17-09-2025	     |Hobby shops                | [Click Here](https://hema-1712.github.io/hobbyhaven/)                |
+| 54	  |18-09-2025	     |                           | [Click Here]()                                                       |
+| 55	  |19-09-2025	     |                           | [Click Here]()                                                       |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **Trainer Name**: Dinesh Kumar
