@@ -55,8 +55,9 @@
 | 51	  |15-09-2025	     |Tech repair shops	         | [Click Here](https://hema-1712.github.io/bytefix/ )                  |
 | 52	  |16-09-2025	     |Hydroponic Shops	         | [Click Here](https://hema-1712.github.io/hydro/ )                    |
 | 53	  |17-09-2025	     |Hobby shops                | [Click Here](https://hema-1712.github.io/hobbyhaven/)                |
-| 54	  |18-09-2025	     |                           | [Click Here]()                                                       |
-| 55	  |19-09-2025	     |                           | [Click Here]()                                                       |
+| 54	  |18-09-2025	     |Digital Download Shops	   | [Click Here](https://hema-1712.github.io/cloudnest/)                 |
+| 55	  |19-09-2025	     |Smart Home Tech Retailers	 | [Click Here](https://hema-1712.github.io/casasmart/)                 |
+| 56	  |22-09-2025	     |Butcher shops	             | [Click Here](https://hema-1712.github.io/meatly/)                    |
 
 
 
