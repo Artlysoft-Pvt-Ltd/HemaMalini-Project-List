@@ -58,6 +58,8 @@
 | 54	  |18-09-2025	     |Digital Download Shops	   | [Click Here](https://hema-1712.github.io/cloudnest/)                 |
 | 55	  |19-09-2025	     |Smart Home Tech Retailers	 | [Click Here](https://hema-1712.github.io/casasmart/)                 |
 | 56	  |22-09-2025	     |Butcher shops	             | [Click Here](https://hema-1712.github.io/meatly/)                    |
+| 57	  |23-09-2025	     |Kitchenwareandapplianceshops| [Click Here](https://hema-1712.github.io/kitchena/)                 |
+| 56	  |24-09-2025	     |Subscription Box Services	 | [Click Here](https://hema-1712.github.io/everbox/#/)                 |
 
 
 
