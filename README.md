@@ -60,6 +60,10 @@
 | 56	  |22-09-2025	     |Butcher shops	             | [Click Here](https://hema-1712.github.io/meatly/)                    |
 | 57	  |23-09-2025	     |Kitchenwareandapplianceshops| [Click Here](https://hema-1712.github.io/kitchena/)                 |
 | 56	  |24-09-2025	     |Subscription Box Services	 | [Click Here](https://hema-1712.github.io/everbox/#/)                 |
+| 57	  |25-09-2025	     |OnlineCourseMaterialRetailers| [Click Here](https://hema-1712.github.io/edumart/)                 |
+| 58	  |26-09-2025	     |Electrical Supply Shops	   | [Click Here](https://hema-1712.github.io/amperex/)                   |
+| 59	  |29-09-2025	     |Museum gift shops	         | [Click Here](https://hema-1712.github.io/giftoriumm/)                  |
+
 
 
 
