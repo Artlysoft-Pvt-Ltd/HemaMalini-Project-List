@@ -59,10 +59,20 @@
 | 55	  |19-09-2025	     |Smart Home Tech Retailers	 | [Click Here](https://hema-1712.github.io/casasmart/)                 |
 | 56	  |22-09-2025	     |Butcher shops	             | [Click Here](https://hema-1712.github.io/meatly/)                    |
 | 57	  |23-09-2025	     |Kitchenwareandapplianceshops| [Click Here](https://hema-1712.github.io/kitchena/)                 |
-| 56	  |24-09-2025	     |Subscription Box Services	 | [Click Here](https://hema-1712.github.io/everbox/#/)                 |
-| 57	  |25-09-2025	     |OnlineCourseMaterialRetailers| [Click Here](https://hema-1712.github.io/edumart/)                 |
-| 58	  |26-09-2025	     |Electrical Supply Shops	   | [Click Here](https://hema-1712.github.io/amperex/)                   |
-| 59	  |29-09-2025	     |Museum gift shops	         | [Click Here](https://hema-1712.github.io/giftoriumm/)                  |
+| 58	  |24-09-2025	     |Subscription Box Services	 | [Click Here](https://hema-1712.github.io/everbox/#/)                 |
+| 59	  |25-09-2025	     |OnlineCourseMaterialRetailers| [Click Here](https://hema-1712.github.io/edumart/)                 |
+| 60	  |26-09-2025	     |Electrical Supply Shops	   | [Click Here](https://hema-1712.github.io/amperex/)                   |
+| 61	  |29-09-2025	     |Museum gift shops	         | [Click Here](https://hema-1712.github.io/giftoriumm/)                |
+| 62	  |30-09-2025	     | HVAC Supply Stores	       | [Click Here](https://hema-1712.github.io/ventify/#/)                 |
+| 63	  |03-10-2025	     | check-Cashing Service	   | [Click Here](https://hema-1712.github.io/quickcas/)                  |
+| 64	  |06-10-2025	     | camera shops	             | [Click Here](https://hema-1712.github.io/pixel/)                     |
+| 65	  |07-10-2025	     | Audio Equipment shops	   | [Click Here](https://hema-1712.github.io/soundify/)                  |
+| 66	  |08-10-2025	     | Beekeeping Supply Stores	 | [Click Here](https://hema-1712.github.io/honeza/)                    |
+
+
+
+
+
 
 
 
